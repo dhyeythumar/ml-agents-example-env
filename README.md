@@ -3,4 +3,4 @@
 
 
 ## Acknowledgements
-1. [Unity ML-Agents Toolkit](https://github.com/Unity-Technologies/ml-agents/tree/release_1_branch)
+1. [Unity ML-Agents Toolkit](https://github.com/Unity-Technologies/ml-agents)
