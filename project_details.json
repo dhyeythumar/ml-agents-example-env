@@ -1,0 +1,7 @@
+{
+    "env_name": "ml-agents-example-env/3DBall_example/3DBall.x86_64",
+    "hyper_parameters": "ml-agents-example-env/config.yaml",
+    "unityplayer_path": "ml-agents-example-env/3DBall_example/UnityPlayer.so",
+    "permission_path": "ml-agents-example-env/3DBall_example/",
+    "run_id": "train-1"
+}
